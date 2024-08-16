@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bedir/OneDrive/Masa%C3%BCst%C3%BC/YMIR/PROJECTS/PYTHON/AI/MLOPS/INTRO_TO_MLFLOW/mlruns/0/d5c9ae5962a945f386ed2e1d5abd8dde/artifacts
+end_time: 1723757637313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5c9ae5962a945f386ed2e1d5abd8dde
+run_name: funny-donkey-605
+run_uuid: d5c9ae5962a945f386ed2e1d5abd8dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723757632513
+status: 3
+tags: []
+user_id: bedir
